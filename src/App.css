@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+body {
+  background: whitesmoke;
+  width: 80%;
+  margin: auto;
+  font-family: arial;
+}
+
+input {
+  border: 1px solid black;
+  height: 20px;
+  text-indent: 10px; 
+}
+
+button {
+  box-sizing: border-box;
+  background-color: salmon;
+  cursor: pointer;
+  border-radius: 10px;
+  border: 1px solid black;
+  font-size: 15px;
+  height: 25px;
+  padding: 2%;
+  line-height: 1;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  color:black;
+} 
